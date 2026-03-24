@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Echorium">
-    <img src="https://raw.githubusercontent.com/Echorium/Echorium/refs/heads/main/Abanti%20Dutta%20Athoy.png alt="Abanti Dutta Athoy" /></a>
+    <img src="https://raw.githubusercontent.com/Echorium/Echorium/refs/heads/main/Abanti%20Dutta%20Athoy.png" alt="Abanti Dutta Athoy" /></a>
 </p>
 
 <!--
