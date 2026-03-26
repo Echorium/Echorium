@@ -1,9 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Echorium.Echorium" />
 
-<h1 align="center"> 
+<!-- <h1 align="center"> 
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   Hii There👋
-</h1>  
+</h1>   -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&pause=500&color=A7A459&center=true&vCenter=true&repeat=false&width=250&lines=Hello+hello" alt="Typing SVG" />
+</p>
+
 
 
 <!-- <p align="center">
