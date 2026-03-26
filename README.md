@@ -40,6 +40,7 @@ class SoftwareEngineer:
 
 
 me = SoftwareEngineer()
+me.say_hi()
 ```
 
 
